@@ -21,7 +21,9 @@ Using **Tengu Marauder** units (or your own approved robotic unit), teams must c
 
 ## 🗺️ Arena Layout
 
-![DEFCON Hack the Bots Arena Layout](diagrams/DEFCONBattleBots.png)
+<p align="center">
+  <img src="./Diagrams/DEFCONBattleBots.png" alt="Diagram">
+</p>
 
 ### Obstacles and Features:
 - **Rotary Obstacles** – Spinning blockers that require timing to bypass.
